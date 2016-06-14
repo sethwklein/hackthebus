@@ -1,0 +1,127 @@
+{
+    "routes": {
+        "7": {
+            "leds": [
+                {
+                    "formatted_address": "ME-26, Portland, ME 04101, USA",
+                    "lat": 43.6757724,
+                    "lon": -70.2562559,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "Back Cove Trail & Washington Ave & Plowman St, Portland, ME 04101, USA",
+                    "lat": 43.6744685,
+                    "lon": -70.2566693,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "Back Cove Trail & Washington Ave & Plowman St, Portland, ME 04101, USA",
+                    "lat": 43.6733409,
+                    "lon": -70.257165,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "Washington Ave & I-295, Portland, ME 04101, USA",
+                    "lat": 43.67216639999999,
+                    "lon": -70.25627969999999,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "184-188 Washington Ave, Portland, ME 04101, USA",
+                    "lat": 43.6694067,
+                    "lon": -70.2538917,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "Washington & Fox, Portland, ME 04101, USA",
+                    "lat": 43.667657,
+                    "lon": -70.253486,
+                    "pin": 999
+                },
+                {
+
+                    "formatted_address": "86-94 Washington Ave, Portland, ME 04101, USA",
+                    "lat": 43.6662818,
+                    "lon": -70.2524947,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "108 Cumberland Ave, Portland, ME 04101, USA",
+                    "lat": 43.663998,
+                    "lon": -70.251071,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "236-248 Congress St, Portland, ME 04101, USA",
+                    "lat": 43.6629028,
+                    "lon": -70.2514819,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "288-290 Congress St, Portland, ME 04101, USA",
+                    "lat": 43.6616586,
+                    "lon": -70.2529713,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "244-250 Cumberland Ave, Portland, ME 04101, USA",
+                    "lat": 43.6606759,
+                    "lon": -70.2569637,
+                    "pin": 999
+                },
+                {
+                    "formatted_address": "273 Cumberland Ave, Portland, ME 04101, USA",
+                    "lat": 43.659894,
+                    "lon": -70.25861900000001,
+                    "pin": 999
+                }
+            ]
+        },
+        "1": {
+	    "leds": [
+		{
+		    "formatted_address": "129 Congress St, Portland, ME 04101, USA",
+		    "lat":43.665779,
+		    "lon":-70.2482,
+		    "pin": 13
+		},
+		{
+		    "formatted_address": "54-62 Sheridan St, Portland, ME 04101, USA",
+		    "lat":43.6646078,
+		    "lon":-70.2493549,
+		    "pin": 12
+		},
+		{
+		    "formatted_address": "56-78 Mountfort St, Portland, ME 04101, USA",
+		    "lat":43.6632603,
+		    "lng":-70.2510245,
+		    "pin": 18
+		},
+		{
+		    "formatted_address": "285 Congress St, Portland, ME 04101, USA",
+		    "lat":43.66171010000001,
+		    "lng":-70.25294579999999,
+		    "pin": 19
+		},
+		{
+		    "formatted_address": "Congress & Franklin (I), Portland, ME 04101, USA",
+		    "lat":43.660885,
+		    "lng":-70.25400599999999,
+		    "pin": 20
+		},
+		{
+		    "formatted_address": "350 Congress St, Portland, ME 04101, USA",
+		    "lat":43.65984599999999,
+		    "lng":-70.254538,
+		    "pin": 21
+		},
+		{
+		    "formatted_address": "390 Congress St, Portland, ME 04101, USA",
+		    "lat": 43.6590327,
+		    "lng": -70.2565154,
+		    "pin": 22
+		}
+	    ]
+	}
+    }
+}
