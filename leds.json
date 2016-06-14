@@ -30,50 +30,50 @@
                     "formatted_address": "184-188 Washington Ave, Portland, ME 04101, USA",
                     "lat": 43.6694067,
                     "lon": -70.2538917,
-                    "pin": 999
+                    "pin": 26
                 },
                 {
                     "formatted_address": "Washington & Fox, Portland, ME 04101, USA",
                     "lat": 43.667657,
                     "lon": -70.253486,
-                    "pin": 999
+                    "pin": 25
                 },
                 {
 
                     "formatted_address": "86-94 Washington Ave, Portland, ME 04101, USA",
                     "lat": 43.6662818,
                     "lon": -70.2524947,
-                    "pin": 999
+                    "pin": 24
                 },
                 {
                     "formatted_address": "108 Cumberland Ave, Portland, ME 04101, USA",
                     "lat": 43.663998,
                     "lon": -70.251071,
-                    "pin": 999
+                    "pin": 23
                 },
                 {
                     "formatted_address": "236-248 Congress St, Portland, ME 04101, USA",
                     "lat": 43.6629028,
                     "lon": -70.2514819,
-                    "pin": 999
+                    "pin": 22
                 },
                 {
                     "formatted_address": "288-290 Congress St, Portland, ME 04101, USA",
                     "lat": 43.6616586,
                     "lon": -70.2529713,
-                    "pin": 999
+                    "pin": 21
                 },
                 {
                     "formatted_address": "244-250 Cumberland Ave, Portland, ME 04101, USA",
                     "lat": 43.6606759,
                     "lon": -70.2569637,
-                    "pin": 999
+                    "pin": 20
                 },
                 {
                     "formatted_address": "273 Cumberland Ave, Portland, ME 04101, USA",
                     "lat": 43.659894,
                     "lon": -70.25861900000001,
-                    "pin": 999
+                    "pin": 19
                 }
             ]
         },
@@ -101,25 +101,25 @@
 		    "formatted_address": "285 Congress St, Portland, ME 04101, USA",
 		    "lat":43.66171010000001,
 		    "lng":-70.25294579999999,
-		    "pin": 19
+		    "pin": 999
 		},
 		{
 		    "formatted_address": "Congress & Franklin (I), Portland, ME 04101, USA",
 		    "lat":43.660885,
 		    "lng":-70.25400599999999,
-		    "pin": 20
+		    "pin": 999
 		},
 		{
 		    "formatted_address": "350 Congress St, Portland, ME 04101, USA",
 		    "lat":43.65984599999999,
 		    "lng":-70.254538,
-		    "pin": 21
+		    "pin": 999
 		},
 		{
 		    "formatted_address": "390 Congress St, Portland, ME 04101, USA",
 		    "lat": 43.6590327,
 		    "lng": -70.2565154,
-		    "pin": 22
+		    "pin": 999
 		}
 	    ]
 	}
